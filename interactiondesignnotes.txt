@@ -1,0 +1,36 @@
+- interaction design notes
+	-the radical introduction of the mouse
+	- introduced "navigation" to cyberspace
+	- first kinetic human computer interface
+	- doing + images = symbols (symbol as action-image)
+enactive mentality: knowing where u are, manipulate objects
+iconic: first level of symbolic thought, recognition, comparison
+symbolic: higher level conceptual thinking, long chains of reason
+DOING -- mouse - enactive
+WITH IMAGES -- icons, windows - iconic
+MAKES SYMBOLS -- smalltalk - symbolic
+object oriented means the object knows what it can do
+object.message (message being something it can understand)
+
+-DESIGN MANIFESTO IN FAVOR OF PLAY
+	-there is a crisis of natural interfaces, frank labels
+	and straightforward instructions
+	-conventional design as an obscuring of relations b/w
+	user and interface in favor of a collapsing of self (flow)
+	- the importance of states of unknowing, of possibility, has
+	been greatly understated in design philosophy
+	- instant understanding precludes experimentation modification and intervention
+-LUDIC INTERFACES
+	-ludic interfaces opposed to technically engineered interfaces (mouse)
+	- jess kilby - center of the universe (rfid enabled tarot card table with blank rfid set of cards)
+	-interface shapes experience, why then not make it cool as shit
+	- technically engineered interfaces are ideological, they constrain possible interaction, 
+	impose sets of rules
+	- leaving the magic circle: assuming a trickster/spoilsport relation to the institution
+	leaving and reentering is often an incredibly lucrative move for artists (emin's bed) but
+	its success is 1. contingent on being inside the circle in the first place, and 2. being
+	able to re-enter, not having strayed too far from the borders for too long
+	
+	- interpassivity: the induction of an observer state in the player within a text still parsable
+	as interactive
+	- "ZERO INTERFACE"
